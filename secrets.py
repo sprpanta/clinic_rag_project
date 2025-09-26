@@ -1,3 +1,3 @@
 from langchain_openai import OpenAIEmbeddings
 import os
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
